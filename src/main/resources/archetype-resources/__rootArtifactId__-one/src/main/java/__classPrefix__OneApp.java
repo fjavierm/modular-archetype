@@ -4,4 +4,7 @@
 package ${package}.one;
 
 public class ${classPrefix}OneApp {
+    #if (${greeting == 'y'})
+    // Hello, welcome here!
+    #end
 }

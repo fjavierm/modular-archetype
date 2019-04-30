@@ -8,6 +8,9 @@
     <requiredProperty key="groupId">
       <defaultValue>dev.binarycoders</defaultValue>
     </requiredProperty>
+    <requiredProperty key="greeting">
+      <defaultValue>y</defaultValue>
+    </requiredProperty>
   </requiredProperties>
   <fileSets>
     <fileSet encoding="UTF-8">
